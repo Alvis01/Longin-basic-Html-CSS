@@ -1,0 +1,112 @@
+body {background-color: rgb(189, 215, 250);
+
+}
+#Name{
+    margin-top:30px ;
+    position: relative;
+color: green;
+}
+
+input[type=text]{
+    position: relative;
+    left:5% ;
+    top:1px ;
+    width:85%;
+    height:40px;
+    display: block;
+    border: none;
+    padding:0px ;
+    border-bottom: 1px solid rgb(216, 214, 214);
+    background-color: rgb(224, 224, 224);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+   
+
+
+}
+input[type=password]{
+    position: relative;
+    left:5% ;
+    top:30px ;
+    width:85%;
+    height:40px;
+    display: block;
+    border: none;
+    padding:0px ;
+    border-bottom: 1px solid rgb(216, 214, 214);
+    background-color: rgb(224, 224, 224);
+    
+
+    
+
+}
+input[type=submit]{
+    display: inline;
+    background-color: royalblue;
+    color: seashell;
+    position: relative;
+    left:5% ;
+    top:40px ;
+    padding:0px;
+    width:115px;
+    height:40px;
+    border-radius:1px ;
+    border:none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+}
+
+.box{position: absolute;
+    background-color: rgba(246, 249, 250, 0.952);
+    width:300px ;
+    border-bottom:2px solid rgb(207, 205, 205) ;
+    top:15% ;
+    left:40% ;
+    height:50% ;
+    border-top: 2px solid rgb(102, 245, 166);
+
+ 
+}
+
+#title{
+position: relative;
+top: 15%;
+left: 20%;
+font-weight: lighter;
+font-size:20px ;
+color: rgb(109, 105, 105);
+font-family:serif ;
+margin: 0px;
+width:180px;
+font-size: 30px;
+
+}
+
+.form{
+    height: auto;
+    position: relative;
+    top:25% ;
+    left:3px ;
+    
+    
+    
+    
+    
+}
+
+#question{
+    position: relative;
+    left:12px ;
+    background-color: rgba(246, 249, 250, 0.952);
+    color: rgb(204, 202, 202);
+}
+#submit{
+    position: relative;
+    left:35px ;
+    background-color: rgb(226, 70, 42);
+
+}
+
+#icon{
+    top: 20px;
+}
